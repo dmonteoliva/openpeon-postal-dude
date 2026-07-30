@@ -1,0 +1,38 @@
+Creative Commons Attribution-NonCommercial 4.0 International
+(CC BY-NC 4.0)
+
+Full legal code: https://creativecommons.org/licenses/by-nc/4.0/legalcode
+Human-readable summary: https://creativecommons.org/licenses/by-nc/4.0/
+
+------------------------------------------------------------------------
+SCOPE OF THIS LICENSE
+------------------------------------------------------------------------
+
+The CC BY-NC 4.0 license above applies ONLY to the parts of this pack
+authored by its maintainer, namely:
+
+  - the selection and categorisation of clips
+  - the audio editing (trimming, loudness normalisation, encoding)
+  - the openpeon.json manifest, README, and supporting files
+
+It does NOT and CANNOT apply to the underlying voice recordings.
+
+------------------------------------------------------------------------
+THIRD-PARTY MATERIAL
+------------------------------------------------------------------------
+
+The voice clips in sounds/ are dialogue from the video game POSTAL 2.
+
+  POSTAL 2 (c) Running With Scissors, Inc.
+  Postal Dude voiced by Rick Hunter.
+
+All rights to those recordings remain with their respective owners. They
+are redistributed here in short excerpts, at reduced quality, for
+non-commercial community use, as a transformative repurposing unrelated
+to the game's own market. No affiliation with or endorsement by Running
+With Scissors is claimed or implied.
+
+If you are a rights holder and object to this distribution, open an issue
+on the source repository and the pack will be removed.
+
+Do not use this pack commercially.

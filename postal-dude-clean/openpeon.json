@@ -1,0 +1,275 @@
+{
+  "cesp_version": "1.0",
+  "name": "postal-dude-clean",
+  "display_name": "Postal Dude (POSTAL 2) - Clean",
+  "version": "1.0.0",
+  "description": "The Postal Dude from POSTAL 2 reacts to your coding session. Profanity-free cut.",
+  "author": {
+    "name": "Davy Monteoliva",
+    "github": "dmonteoliva"
+  },
+  "license": "CC-BY-NC-4.0",
+  "language": "en",
+  "tags": [
+    "gaming",
+    "postal",
+    "fps",
+    "funny",
+    "clean"
+  ],
+  "icon": "icon.png",
+  "categories": {
+    "session.start": {
+      "sounds": [
+        {
+          "file": "sounds/dude_map_exit1.mp3",
+          "label": "Well these errands aren't gonna do themselves.\"\""
+        },
+        {
+          "file": "sounds/dude_todaysthefirst.mp3",
+          "label": "Today's the first day of the end of your lives!"
+        },
+        {
+          "file": "sounds/dude_thisisgonnabe.mp3",
+          "label": "This is gonna be sweet!"
+        },
+        {
+          "file": "sounds/dude_gunsdontkill.mp3",
+          "label": "Guns don't kill people, I do!"
+        },
+        {
+          "file": "sounds/dude_iamthelaw.mp3",
+          "label": "I am the law! laugh"
+        },
+        {
+          "file": "sounds/dude_onlymyweapon.mp3",
+          "label": "Only my weapon understands me."
+        }
+      ]
+    },
+    "task.acknowledge": {
+      "sounds": [
+        {
+          "file": "sounds/dude_noproblem.mp3",
+          "label": "No problem."
+        },
+        {
+          "file": "sounds/dude_soundsreasonable.mp3",
+          "label": "Sounds reasonable."
+        },
+        {
+          "file": "sounds/dude_map_loc1.mp3",
+          "label": "Let's see..."
+        },
+        {
+          "file": "sounds/dude_ifyousayso.mp3",
+          "label": "If you say so!"
+        },
+        {
+          "file": "sounds/dude_hehhehheh.mp3",
+          "label": "laughter"
+        },
+        {
+          "file": "sounds/dude_map_exit4.mp3",
+          "label": "Anddd ready? Go!"
+        },
+        {
+          "file": "sounds/dude_map_tooeasy.mp3",
+          "label": "Too easy!"
+        }
+      ]
+    },
+    "task.complete": {
+      "sounds": [
+        {
+          "file": "sounds/dude_map_anddone.mp3",
+          "label": "And done!"
+        },
+        {
+          "file": "sounds/dude_map_missionaccom.mp3",
+          "label": "Mission accomplished, with extreme prejudice!"
+        },
+        {
+          "file": "sounds/dude_sweet.mp3",
+          "label": "Sweet!"
+        },
+        {
+          "file": "sounds/suprisinglysatisfying.mp3",
+          "label": "This is surprisingly satisfying."
+        },
+        {
+          "file": "sounds/dude_map_anotherone.mp3",
+          "label": "And another one bites the dust!"
+        },
+        {
+          "file": "sounds/dude_map_found2.mp3",
+          "label": "There we go!"
+        },
+        {
+          "file": "sounds/dude_iregretnothing.mp3",
+          "label": "I regret nothing."
+        }
+      ]
+    },
+    "task.error": {
+      "sounds": [
+        {
+          "file": "sounds/dude_oops.mp3",
+          "label": "Oops."
+        },
+        {
+          "file": "sounds/dude_thatsclearly.mp3",
+          "label": "That's clearly wrong."
+        },
+        {
+          "file": "sounds/dude_wasthatsupposed.mp3",
+          "label": "Was that supposed to happen?"
+        },
+        {
+          "file": "sounds/dude_ohthatcanthave.mp3",
+          "label": "Ooh, that can't be good."
+        },
+        {
+          "file": "sounds/dude_wellwhodathought.mp3",
+          "label": "Well, who'd a thought that would happen."
+        }
+      ]
+    },
+    "input.required": {
+      "sounds": [
+        {
+          "file": "sounds/dude_map_loc4.mp3",
+          "label": "Now where is that?"
+        },
+        {
+          "file": "sounds/dude_whydoesthisnot.mp3",
+          "label": "Why does this not surprise me?"
+        },
+        {
+          "file": "sounds/dude_cmonhurryup.mp3",
+          "label": "C'mon, hurry up, I know you got minorities to oppress."
+        },
+        {
+          "file": "sounds/dude_herecatch.mp3",
+          "label": "Here, catch!"
+        },
+        {
+          "file": "sounds/dude_petition1b.mp3",
+          "label": "Would you please sign my petition?"
+        },
+        {
+          "file": "sounds/dude_petition2a.mp3",
+          "label": "Sign my petition, dammit!"
+        }
+      ]
+    },
+    "resource.limit": {
+      "sounds": [
+        {
+          "file": "sounds/dude_hmmalloutofcash.mp3",
+          "label": "Hm, all outta cash."
+        },
+        {
+          "file": "sounds/dude_hmmalloutofcash2.mp3",
+          "label": "Hmm, all outta cash."
+        },
+        {
+          "file": "sounds/dude_icanbuythat.mp3",
+          "label": "I can't buy that."
+        },
+        {
+          "file": "sounds/dude_thatlooksenough.mp3",
+          "label": "Yeah, that looks like enough."
+        },
+        {
+          "file": "sounds/dude_stuffwasntgood.mp3",
+          "label": "I knew that stuff wasn't good for me."
+        },
+        {
+          "file": "sounds/dude_news_friday.mp3",
+          "label": "Glad to see my tax dollars aren't going to waste!"
+        }
+      ]
+    },
+    "task.progress": {
+      "sounds": [
+        {
+          "file": "sounds/dude_quiteawait.mp3",
+          "label": "Wooo, that's gonna be quite a wait."
+        },
+        {
+          "file": "sounds/dude_imboredalready.mp3",
+          "label": "I'm bored already!"
+        },
+        {
+          "file": "sounds/dude_sigh.mp3",
+          "label": "Long sigh"
+        },
+        {
+          "file": "sounds/dude_sigh2.mp3",
+          "label": "Sigh"
+        },
+        {
+          "file": "sounds/dude_lineinevitable.mp3",
+          "label": "Hmm, a long line, I suppose it was inevitable\"\""
+        },
+        {
+          "file": "sounds/dude_map_loc2.mp3",
+          "label": "Hmm..."
+        },
+        {
+          "file": "sounds/dude_donttheyhavejobs.mp3",
+          "label": "Don't these people have jobs?"
+        }
+      ]
+    },
+    "session.end": {
+      "sounds": [
+        {
+          "file": "sounds/dude_timetogohome.mp3",
+          "label": "Time to head home!"
+        },
+        {
+          "file": "sounds/dude_bettergetoutta.mp3",
+          "label": "I better get outta here!"
+        },
+        {
+          "file": "sounds/dude_haveaniceday.mp3",
+          "label": "Have a nice day!"
+        },
+        {
+          "file": "sounds/dude_map_exit5.mp3",
+          "label": "Man, I sure hope I get to sleep in tomorrow."
+        }
+      ]
+    },
+    "user.spam": {
+      "sounds": [
+        {
+          "file": "sounds/dude_mygrandmothercould.mp3",
+          "label": "My grandmother could beat the game if she saved as much a..."
+        },
+        {
+          "file": "sounds/dude_shutupmoron.mp3",
+          "label": "Shut up, moron."
+        },
+        {
+          "file": "sounds/dude_doesmyvoiceannoy.mp3",
+          "label": "Does my voice annoy you?"
+        },
+        {
+          "file": "sounds/dude_movealong.mp3",
+          "label": "Move along!"
+        },
+        {
+          "file": "sounds/dude_imsoryapparently.mp3",
+          "label": "I'm sorry, apparently I'm feeling a little psychotic this..."
+        },
+        {
+          "file": "sounds/dude_nothingtoseehere.mp3",
+          "label": "Nothing to see here."
+        }
+      ]
+    }
+  }
+}
